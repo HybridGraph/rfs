@@ -8,7 +8,7 @@
 Please refer to requirements.txt for more details
 
 ### **Installation**  
-1. Download source codes from this repository
+1. Download source codes (single_request for single revocation and multiple_request for multiple revocations)
 
 2. Create the virtual environment
 
@@ -40,4 +40,4 @@ Please refer to requirements.txt for more details
 
    Please modify the file path based on your specific context.
    
-   Note: the ``dare'' library must be well installed. Please refer to [GitHub - jjbrophy47/dare_rf: Machine Unlearning for Random Forests](https://github.com/jjbrophy47/dare_rf)
+   Note: the ``dare'' library includes so many big files that we cannot upload them. Thus, users should manually install this library before running our codes. Please refer to [GitHub - jjbrophy47/dare_rf: Machine Unlearning for Random Forests](https://github.com/jjbrophy47/dare_rf)
