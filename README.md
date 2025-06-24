@@ -1,6 +1,6 @@
 ## **Overview Description**
 
-This is a software to quickly unlearn the already trained random forests once upon one or more instances require to be revoked.
+This is a software to quickly unlearn the influence of one or more revoked instances for random forests. 
 
 ## **🛠️ Quick Start**  
 
